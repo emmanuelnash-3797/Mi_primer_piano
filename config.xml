@@ -19,6 +19,7 @@
         Emmanuel Martinez Blas
     </author>
 	
+	<preference name= "orientation" value="landscape"/>
 
 		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
         <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
