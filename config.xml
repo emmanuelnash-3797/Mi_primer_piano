@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Ejemplo de plug in</name>
+    <name>Mi Primer Piano</name>
 
     <description>
-        Ejemplo para utilizar Plugins
+        Piano musical
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
