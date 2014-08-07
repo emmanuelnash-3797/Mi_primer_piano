@@ -13,7 +13,7 @@ $(document).ready(function(e){
 		audio.preloadFX('la','audio/A.mp3',function(msg){},function(msg){alert ('error: '+msg);});
 		audio.preloadFX('si','audio/B.mp3',function(msg){},function(msg){alert ('error: '+msg);});
 		
-		$('.nota').bind('touch star',function(e){
+		$('.nota').bind('touchstar',function(e){
 			$(this).addClass('tocada');
 			audio.play($(this).attr('id'));
 			}).bind('touchend',function(e){
