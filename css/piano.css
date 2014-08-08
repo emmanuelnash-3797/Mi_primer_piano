@@ -9,6 +9,16 @@
 
 .nota { float:left; height:90%; position:relative; outline:#009 solid 1px; width:14.28571425571429%; background-color:#c9c9c9;}
 
-.textonota { position:relative; top:80%; text-align:center; font-size:2em; font-weight:bold; font:range; background-color:#66F; width:90%; margin-left:5%}
+#imagen { width:90%; background-color:#000; margin-left:5%; height:20%; position:relative; top:70%;} 
+
+.textonota { position:relative; top:70%; text-align:center; font-size:2em; font-weight:bold; font:range; background-color:#CCF; width:90%; margin-left:5%}
 
 .tocada { color:#60F; background:#F3F; outline:1px solid #0CF}
+
+#do { background-color:#F09}
+#re { background-color:#F0F}
+#mi { background-color:#3CF}
+#fa { background-color:#6F0}
+#sol { background-color:#FF3}
+#la { background-color:#F93}
+#si { background-color:#60C}
